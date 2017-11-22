@@ -1,5 +1,7 @@
 #+TITLE: The maintainers - resources
 
+* Books and articles
+
 - Chris Jones. /Routes of Power. Energy and Modern America/, 2016 ([[http://www.hup.harvard.edu/catalog.php?isbn=9780674970922&content=reviews][link]])
 
 - Julie Cohn. /The Grid, Biography of an American Technology/, 2017
@@ -73,5 +75,13 @@
 - Wallsten, Björn. /The Urk World: Hibernating Infrastructures and the
   Quest for Urban Mining/, 2015 ([[http://www.diva-portal.org/smash/record.jsf?aq2=%255B%255B%255D%255D&c=1&af=%255B%255D&searchType=SIMPLE&query=the+urk+world&language=en&pid=diva2%253A872787&aq=%255B%255B%255D%255D&sf=all&aqe=%255B%255D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=-5855][link]])
 
-[[https://creativecommons.org/licenses/by-sa/3.0/fr/][CC-by-sa 3.0]] © Bastien Guerry
+* Bibliographies
 
+- [[http://wohnforum.arch.ethz.ch/sites/default/files/dateien/bibliography_repair_work10.03.2015_3.pdf][Ethnography of repair work bibliography (PDF)]] by Alain Bovet
+
+- [[https://elipousson.github.io/bibliography/2017/05/25/maintenance/][Working bibliography on building maintenance and facilities
+  management]] by Eli Pousson
+ 
+* License
+
+[[https://creativecommons.org/licenses/by-sa/3.0/fr/][CC-by-sa 3.0]] © Bastien Guerry
