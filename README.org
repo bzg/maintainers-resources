@@ -1,0 +1,11 @@
+* A collection of resources about maintainance
+
+[[file:maintainers-readings.org][Read the collection]].
+
+I collected some resources from a discussion that happened on the
+mailing list of the http://themaintainers.org project, Nov. 2017.
+
+Feel free to email [[mailto:bzg%20AT%20bzg%20DOT%20fr][suggestions]] or to propose changes on this [[https://github.com/bzg/maintainers-resources][github
+repository]].
+
+[[https://creativecommons.org/licenses/by-sa/3.0/fr/][CC-by-sa 3.0]] © Bastien Guerry
